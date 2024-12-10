@@ -1,0 +1,29 @@
+/* Answer-1 */
+.container p{
+    background-color: yellowgreen;
+}
+/* Answer-2 */
+.parent>p{
+    background-color: red;
+    font-size: 2rem;
+}
+/* Answer-3 */
+#Main-Heading + p{
+    background-color: aquamarine;
+    font-size: 30px;
+    text-align: center;
+    color: red;
+}
+/* Answer-4 */
+#Sub-Heading ~ p{
+    background-color: orange;
+    font-size: 20px;
+    color: green;
+}
+/* Answer-5 */
+.wrapper > ul > .item{
+    background-color: red;
+    color: white;
+    text-align:center;
+    font-size: 30px;
+}
